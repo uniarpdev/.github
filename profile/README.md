@@ -5,6 +5,6 @@ Analista de Sistemas<br>
 _felipe@uniarp.edu.br_
 
 
-**[Marcelo Wollmann Figueiró](https://github.com/felipecmello/wfmarcelo)**<br>
+**[Marcelo Wollmann Figueiró](https://github.com/wfmarcelo)**<br>
 Analista Programador<br>
 _marcelo.wollmann@uniarp.edu.br_
